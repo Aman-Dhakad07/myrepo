@@ -1,0 +1,18 @@
+
+Step 1: Prepare the Dataset
+Sign Up on Roboflow:
+
+Go to Roboflow and create an account.
+
+Choose or Upload a Dataset:
+
+Explore datasets in Roboflow Universe or upload your own images.
+
+Annotate the Dataset:
+
+If your dataset isn't labeled, annotate images by marking the faces. Roboflow provides an easy annotation tool.
+
+Export the Dataset:
+
+Export the dataset in a format compatible with your model (e.g., YOLOv8, TensorFlow). Copy the API key for accessing the dataset programmatically.
+
